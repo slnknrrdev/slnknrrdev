@@ -6,8 +6,8 @@ Hi! I use Codeberg
 ## you may have been looking for an employee...
 [view this repository](https://codeberg.org/slnknrr/.profile/src/branch/for-any)
 
-## why do I need [GitHub](https://github.com/slnknrr-ct/) and [Codeberg](https://codeberg.org/slnknrr/)?
-I use [Codeberg as the main](https://codeberg.org/slnknrr/) service. [GitHub is a mirror](https://github.com/slnknrr-ct/) of individual projects and is public cloud storage (LFS). also I use [GitHub Pages](https://slnknrr-ct.github.io/)
+## why do I need [GitHub](https://github.com/slnknrrdev/) and [Codeberg](https://codeberg.org/slnknrr/)?
+I use [Codeberg as the main](https://codeberg.org/slnknrr/) service. [GitHub is a mirror](https://github.com/slnknrrdev/) of individual projects and is public cloud storage (LFS). also I use [GitHub Pages](https://slnknrrdev.github.io/)
 
 ![](https://www.emojiall.com/images/240/telegram/1f47e.gif)
 
